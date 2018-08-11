@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\gia_k\onedrive\tài liệu\visual studio 2017\projects\project1\project1\source.cpp(45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\gia_k\onedrive\tài liệu\visual studio 2017\projects\project1\project1\source.cpp(155): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\gia_k\onedrive\tài liệu\visual studio 2017\projects\project1\project1\source.cpp(166): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\gia_k\onedrive\tài liệu\visual studio 2017\projects\project1\project1\source.cpp(174): warning C4101: 't': unreferenced local variable
+c:\users\gia_k\onedrive\tài liệu\visual studio 2017\projects\project1\project1\source.cpp(182): warning C4101: 't': unreferenced local variable
+c:\users\gia_k\onedrive\tài liệu\visual studio 2017\projects\project1\project1\source.cpp(190): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\gia_k\onedrive\tài liệu\visual studio 2017\projects\project1\project1\source.cpp(73): warning C4715: 'snthang': not all control paths return a value
+  Project1.vcxproj -> C:\Users\gia_k\OneDrive\tài liệu\Visual Studio 2017\Projects\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\gia_k\OneDrive\tài liệu\Visual Studio 2017\Projects\Project1\Debug\Project1.pdb (Partial PDB)
